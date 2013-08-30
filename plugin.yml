@@ -1,0 +1,9 @@
+name: AreaRegen
+version: 0.5
+author: Egg
+main: io.github.Egg101.AreaRegen.AreaRegen
+
+
+commands:
+   arearegen:
+      description: /arearegen [reload/setpos/loadnow]

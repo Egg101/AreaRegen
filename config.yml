@@ -1,0 +1,35 @@
+enabled: true
+interval_mins: 180
+worldname: "world"
+schematicname: "myschematic"
+
+schematic1:
+  schematicname: "myschematic1"
+  enabled: false
+  world: "world"
+  interval_mins: 180
+
+schematic2:
+  schematicname: "myschematic2"
+  enabled: false
+  world: "world"
+  interval_mins: 180
+  
+schematic3:
+  schematicname: "myschematic3"
+  enabled: false
+  world: "world"
+  interval_mins: 180
+  
+schematic4:
+  schematicname: "myschematic4"
+  enabled: false
+  world: "world"
+  interval_mins: 180
+  
+schematic4:
+  schematicname: "myschematic4"
+  enabled: false
+  world: "world"
+  interval_mins: 180
+  
